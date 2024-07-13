@@ -5,23 +5,22 @@
 
 Shortcuts:
 ```Super + F - FireFox
-
-Super + Q - Kitty
-
+Super + Q - Kitty Terminal
 Super + E - PcmanFM-QT File manager
-
-Super + R - Wofi
-
+Super + R - Wofi Launcher
 Super + ESC - Nwg-Bar
-PRT SCR - hyprshot -m region
-SHIFT + PRT SCR - hyprshot clipboard only
+PRT SCR - hyprshot region
+SHIFT + PRT SCR - hyprshot region clipboard only
 ALT + PRT SCR - hyprshot window mode
+CONTROL + SHIFT + ESCAPE = Bashtop Taskmanager
 
+SUPER + MOUSE 1 - Move floating window
+SUPER + MOUSE 2 - Rezise floating window
 
 NVIM:
 :qw - Quit and Save (Write)
 :q - Quit (No changes)
-:q! Quit and disregard changes
+:q! force quit
 
 (See more in hypr/hyprland.conf)
 ```
@@ -37,6 +36,7 @@ hyprshot
 hyprlock
 brightnessctl
 neofetch
+nwglook
 
 ```
 
@@ -44,7 +44,7 @@ neofetch
 No code is original, just modified to fit my use.
 
 
-![2024-04-28-122359_hyprshot](https://github.com/HaxWire/hyprland.dotfiles/assets/19493307/8f0755c8-578e-4e88-b4b8-d314a93a8b99)
+![2024-04-28-122359_hyprshot](https://github.com/HaxWire/hyprland-dots/2024-07-13-194032_hyprshot.png)
 
 ![2024-04-28-122324_hyprshot](https://github.com/HaxWire/hyprland.dotfiles/assets/19493307/752ec1ab-ff6d-4ef8-8218-fa750cb5f8bf)
 
