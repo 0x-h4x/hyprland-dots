@@ -8,12 +8,20 @@ Shortcuts:
 
 Super + Q - Kitty
 
-Super + E - PcmanFM-QT
+Super + E - PcmanFM-QT File manager
 
 Super + R - Wofi
 
 Super + ESC - Nwg-Bar
 PRT SCR - hyprshot -m region
+SHIFT + PRT SCR - hyprshot clipboard only
+ALT + PRT SCR - hyprshot window mode
+
+
+NVIM:
+:qw - Quit and Save (Write)
+:q - Quit (No changes)
+:q! Quit and disregard changes
 
 (See more in hypr/hyprland.conf)
 ```
